@@ -32,7 +32,9 @@ will overwrite the contents of the file. The output format should be similar to 
 
 
  <NewsChannel>
-</NewsChannel>
+     
+     
+    </NewsChannel>
 
 
 </NewsItem>
