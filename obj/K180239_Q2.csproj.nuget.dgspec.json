@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/daniyal/Desktop/K180239_Q2/K180239_Q2.csproj": {}
+  },
+  "projects": {
+    "/home/daniyal/Desktop/K180239_Q2/K180239_Q2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/daniyal/Desktop/K180239_Q2/K180239_Q2.csproj",
+        "projectName": "K180239_Q2",
+        "projectPath": "/home/daniyal/Desktop/K180239_Q2/K180239_Q2.csproj",
+        "packagesPath": "/home/daniyal/.nuget/packages/",
+        "outputPath": "/home/daniyal/Desktop/K180239_Q2/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/daniyal/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.ServiceModel.Syndication": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Topshelf": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
